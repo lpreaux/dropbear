@@ -1,21 +1,27 @@
-# Welcome to the [Building Your Own Programming Language](https://frontendmasters.com/courses/programming-language/) course!
+# Dropebear - JavaScript - TP
 
-## Getting started
+Ce dépot contient mon travail réaliser en suivant le cours *Building Your Own Programming Language* de @Steve Kinney sur le site FrontendMasters.
 
-Before starting the course, please have [VSCode](https://code.visualstudio.com/) or another code editor installed. Make sure to install the testing framework [jest](https://jestjs.io/docs/en/getting-started).
+## Objectifs du cours
 
-`yarn add --dev jest`
+Créer un langage de programmation simple et les outils qui permmettent de le compiler et l'éxécuter.
 
-OR
 
-`npm install --save-dev jest`
+**Les objectifs pédagogiques étaient :**
 
-Each branch covers different concepts discussed during the course.
-Branches [4](https://github.com/stevekinney/dropbear/tree/4-parsing-solutions) and [6](https://github.com/stevekinney/dropbear/tree/6-max-method-in-environment-solution) have solutions to exercises covered in previous branches.
-the final version of the project is on branch [10-finalversion](https://github.com/stevekinney/dropbear/tree/10-finalversion).
+- Créer un paser complet (tokenizer de string, Lexer (Analyse lexicale), Parser(Analyse syntaxique))
+- Créer un [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
+- Implémentation d'un *Visitor Pattern*
+- Utiliser Babel pour transpiler le code en Javascript
 
-This course was written and recorded by Frontend Masters. The code here is licensed under the Apache 2.0 license and the course notes are licensed under the Creative Commons Attribution-NonCommercial 4.0 International license.
+## Links
 
-## See a Bug or Typo?
+[Frontend Masters](https://frontendmasters.com/)  
+[Le cours *Building Your Own Programming Language*](https://frontendmasters.com/courses/programming-language/) par Steve Kinney
+[Steve Kinney sur Frontend Masters](https://frontendmasters.com/teachers/steve-kinney/)  
+[Le site de Steve Kinney](https://stevekinney.net/)
+[Le profil GitHub de Steve Kinney](https://github.com/stevekinney)
 
-Pull requests are welcome!
+## Remerciement
+
+Thanks to @stevekinney for this amazing course.
