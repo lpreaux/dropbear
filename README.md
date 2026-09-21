@@ -1,15 +1,15 @@
-# Dropebear - JavaScript - TP
+# Dropbear — interpréteur JavaScript
 
-Ce dépot contient mon travail réaliser en suivant le cours *Building Your Own Programming Language* de @Steve Kinney sur le site FrontendMasters.
+Exercice tiré du cours *Building Your Own Programming Language* de Steve Kinney sur Frontend Masters.
 
 ## Objectifs du cours
 
-Créer un langage de programmation simple et les outils qui permmettent de le compiler et l'éxécuter.
+Créer un langage de programmation simple et les outils qui permettent de l'interpréter et de l'exécuter.
 
 
 **Les objectifs pédagogiques étaient :**
 
-- Créer un paser complet (tokenizer de string, Lexer (Analyse lexicale), Parser(Analyse syntaxique))
+- Créer un parseur complet : tokenisation, analyse lexicale et analyse syntaxique
 - Créer un [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 - Implémentation d'un *Visitor Pattern*
 - Utiliser Babel pour transpiler le code en Javascript
@@ -22,6 +22,6 @@ Créer un langage de programmation simple et les outils qui permmettent de le co
 [Le site de Steve Kinney](https://stevekinney.net/)
 [Le profil GitHub de Steve Kinney](https://github.com/stevekinney)
 
-## Remerciement
+## Remerciements
 
 Thanks to @stevekinney for this amazing course.
